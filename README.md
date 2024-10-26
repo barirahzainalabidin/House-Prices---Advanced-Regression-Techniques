@@ -24,6 +24,12 @@ This project to predict the sales price for each house .
 ![photo](https://github.com/barirahzainalabidin/House-Prices-Advanced-Regression-Techniques/blob/main/Screenshot%202024-10-25%2021.30.57.png)
 
 
+- My result same with leaderboard score kaggle
+  
+
+![photo](https://github.com/barirahzainalabidin/House-Prices-Advanced-Regression-Techniques/blob/main/Screenshot%202024-10-26%2009.36.18.png)
+
+
 
 # c. The predicted sales price for each house estimate $ 20,842.58 - $ 100,000
 
